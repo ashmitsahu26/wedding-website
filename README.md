@@ -1,4 +1,4 @@
-# Pratiksha & Sankalp — Wedding Invitation Website
+# Pratiksha & Sankalp — Engagement Invitation Website
 
 A luxury, cinematic, interactive digital wedding invitation website crafted with Next.js 14, React 18, TypeScript, and Tailwind CSS. Faithfully engineered to recreate the atmosphere, animations, typography, and interactive experience of the reference wedding invitation.
 

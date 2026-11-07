@@ -77,7 +77,7 @@ function WeddingContent() {
         />
       )}
 
-      {/* 2. Main Wedding Invitation */}
+      {/* 2. Main Engagement Invitation */}
       {viewState === "home" && (
         <div
           onDoubleClick={handleDoubleClick}
