@@ -189,13 +189,15 @@ export const CoupleSection: React.FC = () => {
               }}
             >
               <img
-                src="/images/photo-2.jpg"
+                src="/images/bride-pratiksha.jpg"
                 alt="Pratiksha Sahoo"
                 style={{
                   width: "100%",
                   height: "100%",
                   objectFit: "cover",
-                  objectPosition: "right 20%",
+                  objectPosition: "45% 38%",
+                  transform: "scale(1.25)",
+                  transformOrigin: "45% 38%",
                 }}
               />
             </div>
@@ -259,13 +261,15 @@ export const CoupleSection: React.FC = () => {
               }}
             >
               <img
-                src="/images/photo-3.jpg"
+                src="/images/groom-sankalp.jpg"
                 alt="Sankalp Rath"
                 style={{
                   width: "100%",
                   height: "100%",
                   objectFit: "cover",
-                  objectPosition: "left 20%",
+                  objectPosition: "72% 26%",
+                  transform: "scale(1.55)",
+                  transformOrigin: "72% 26%",
                 }}
               />
             </div>
