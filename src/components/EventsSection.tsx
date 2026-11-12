@@ -76,7 +76,7 @@ export const EventsSection: React.FC = () => {
               color: "#C9A96E",
             }}
           >
-            ॐ शुभ विवाह · Shubh Vivah
+            ॐ शुभ सगाई · SHUBH SAGAI
           </span>
         </motion.div>
 
